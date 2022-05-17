@@ -290,6 +290,26 @@ a {
   margin-top: 15px;
   padding-left: 20px;
 }
+.language .content .row .circle-group{
+  display: flex;
+  align-items: center;
+}
+.language .content .row .circle-group .circle{
+  height: 12px;
+  width: 12px;
+  border-radius: 50%;
+  margin: 0 2px;
+  background-color: #e8e8e8;
+}
+.teal{
+  background-color: #1bb9b7 !important;
+}
+.blue{
+  background-color: #09c !important;
+}
+.violet{
+  background-color: #6435c9 !important;
+}
 
 .language .row {
   display: flex;
